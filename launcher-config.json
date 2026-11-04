@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "minecraft_version": "1.21.1",
+  "loader": "Fabric",
+  "loader_version": "0.18.4",
+  "pack_url": "https://github.com/Lukas12-cod/pock-survivor/releases/download/v1.0.0/PokSurvivorV1.zip",
+  "game_command": ""
+}
