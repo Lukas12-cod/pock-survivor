@@ -1,13 +1,13 @@
 {
-  "changelog": "NO necesitas tener la primera version",
+  "changelog": "",
   "datapacks_url": "",
   "datapacks_version": "",
   "game_command": "",
   "loader": "Fabric",
   "loader_version": "0.18.4",
   "minecraft_version": "1.21.1",
-  "pack_url": "https://github.com/Lukas12-cod/pock-survivor/releases/download/v1.1.0/PokeSurvivor.zip",
-  "pack_version": "1.1.0",
+  "pack_url": "https://github.com/Lukas12-cod/pock-survivor/releases/download/v1.2.0/PokeSurvivor-1.2.0-limpio.zip",
+  "pack_version": "1.2.0",
   "prism_instance": "",
   "prism_url": "",
   "ram_mb": 6144,
@@ -15,5 +15,5 @@
   "resourcepacks_version": "",
   "shaderpacks_url": "",
   "shaderpacks_version": "",
-  "version": "1.1.0"
+  "version": "1.2.0"
 }
