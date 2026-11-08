@@ -1,13 +1,13 @@
 {
-  "changelog": "ACTUALIZACION E INCORPORACION DE MODS",
+  "changelog": "",
   "datapacks_url": "",
   "datapacks_version": "",
   "game_command": "",
   "loader": "Fabric",
   "loader_version": "0.18.4",
   "minecraft_version": "1.21.1",
-  "pack_url": "https://github.com/Lukas12-cod/pock-survivor/releases/download/v1.4.0/PokeSurvivor-mods-config-2026-11-07.zip",
-  "pack_version": "1.4.0",
+  "pack_url": "https://github.com/Lukas12-cod/pock-survivor/releases/download/v1.5.0/PokeSurvivor-cambios-completos-2026-11-08.zip",
+  "pack_version": "1.5.0",
   "prism_instance": "",
   "prism_url": "",
   "ram_mb": 6144,
@@ -15,5 +15,5 @@
   "resourcepacks_version": "",
   "shaderpacks_url": "",
   "shaderpacks_version": "",
-  "version": "1.4.0"
+  "version": "1.5.0"
 }
