@@ -1,13 +1,13 @@
 {
-  "changelog": "Nuevas skins personalizadas para:\n- Greninja Samurai Alado.\n- Rayquaza Dragón Celestial.\n- Lugia Guardián Abisal.\n- Groudon Titán Volcánico.\n- Groudon Primigenio.\n- Kyogre Leviatán Ancestral.\n- Reshiram Dragón Solar.\n- Zekrom Dragón Tormenta.\n\nVariantes shiny, efectos luminosos y texturas translúcidas.",
+  "changelog": "Nuevo mercado de Pokémon entre jugadores.\nVenta de Pokémon propios desde la party o PC.\nSistema de subastas con:- Duración configurable hasta 20 horas de juego.\n- Comisión del 5%.\n- Incremento mínimo del 6%.\n- Transferencia automática al ganador.\n- Devolución de pujas superadas.",
   "datapacks_url": "",
   "datapacks_version": "",
   "game_command": "",
   "loader": "Fabric",
   "loader_version": "0.18.4",
   "minecraft_version": "1.21.1",
-  "pack_url": "https://github.com/Lukas12-cod/pock-survivor/releases/download/v1.7.0/PockSurvivor-Actualizacion-Mods-Recursos-Datapacks.zip",
-  "pack_version": "1.7.0",
+  "pack_url": "https://github.com/Lukas12-cod/pock-survivor/releases/download/v1.8.0/PokeSurvivor-mods-config-datapacks-resourcepack-2026-11-10.zip",
+  "pack_version": "1.8.0",
   "prism_instance": "",
   "prism_url": "",
   "ram_mb": 6144,
@@ -15,5 +15,5 @@
   "resourcepacks_version": "",
   "shaderpacks_url": "",
   "shaderpacks_version": "",
-  "version": "1.7.0"
+  "version": "1.8.0"
 }
