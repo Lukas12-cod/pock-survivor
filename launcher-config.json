@@ -1,5 +1,7 @@
 {
-  "changelog": "solo carpeta de mods actual",
+  "base_pack_url": "https://github.com/Lukas12-cod/pock-survivor/releases/download/v2.2.0/PokeSurvivor-desde-CurseForge-limpio.zip",
+  "base_pack_version": "2.2.0",
+  "changelog": "",
   "datapacks_url": "",
   "datapacks_version": "",
   "game_command": "",
