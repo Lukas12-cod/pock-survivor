@@ -1,13 +1,13 @@
 {
-  "changelog": "Nuevo mercado de Pokémon entre jugadores.\nVenta de Pokémon propios desde la party o PC.\nSistema de subastas con:- Duración configurable hasta 20 horas de juego.\n- Comisión del 5%.\n- Incremento mínimo del 6%.\n- Transferencia automática al ganador.\n- Devolución de pujas superadas.",
+  "changelog": "",
   "datapacks_url": "",
   "datapacks_version": "",
   "game_command": "",
   "loader": "Fabric",
   "loader_version": "0.18.4",
   "minecraft_version": "1.21.1",
-  "pack_url": "https://github.com/Lukas12-cod/pock-survivor/releases/download/v1.8.0/PokeSurvivor-mods-config-datapacks-resourcepack-2026-11-10.zip",
-  "pack_version": "1.8.0",
+  "pack_url": "https://github.com/Lukas12-cod/pock-survivor/releases/download/v1.9.0/PockSurvivor-Actualizacion-2026-11-10.zip",
+  "pack_version": "1.9.0",
   "prism_instance": "",
   "prism_url": "",
   "ram_mb": 6144,
@@ -15,5 +15,5 @@
   "resourcepacks_version": "",
   "shaderpacks_url": "",
   "shaderpacks_version": "",
-  "version": "1.8.0"
+  "version": "1.9.0"
 }
