@@ -6,8 +6,8 @@
   "loader": "Fabric",
   "loader_version": "0.18.4",
   "minecraft_version": "1.21.1",
-  "pack_url": "https://github.com/Lukas12-cod/pock-survivor/releases/download/v1.9.0/PockSurvivor-Actualizacion-2026-11-10.zip",
-  "pack_version": "1.9.0",
+  "pack_url": "https://github.com/Lukas12-cod/pock-survivor/releases/download/v2.0.0/PokeSurvivor-mods-config-datapacks-resourcepack-2026-11-10.zip",
+  "pack_version": "2.0.0",
   "prism_instance": "",
   "prism_url": "",
   "ram_mb": 6144,
@@ -15,5 +15,5 @@
   "resourcepacks_version": "",
   "shaderpacks_url": "",
   "shaderpacks_version": "",
-  "version": "1.9.0"
+  "version": "2.0.0"
 }
